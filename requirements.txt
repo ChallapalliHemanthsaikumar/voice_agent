@@ -1,0 +1,12 @@
+boto3
+strands-agents
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+amazon-transcribe 
+numpy
+pyaudio
+sounddevice
+pydub
+streamlit
+streamlit-webrtc
+audio-recorder-streamlit
