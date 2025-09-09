@@ -100,24 +100,11 @@ streamlit run chatbot_app.py
 
 ### 🎮 Different Interfaces
 ```bash
-streamlit run chatbot_app.py     # Main chat interface
-streamlit run live_voice_app.py  # Advanced voice features
+streamlit run chatbot_app.py     # Main chat interface # Advanced voice features
 python main.py                   # Command line version
 ```
 
-## � Simple File Structure
 
-```
-voice_agent/
-├── chatbot_app.py      # 👈 Main app (start here!)
-├── agent.py           # 🤖 AI brain
-├── transcribe.py      # 🎤 Speech-to-text  
-├── polly.py          # 🔊 Text-to-speech
-├── config.py         # ⚙️ Settings
-└── requirements.txt  # 📦 Dependencies
-```
-
-## 🎛️ Easy Customization
 
 ### Change Voice
 ```python
